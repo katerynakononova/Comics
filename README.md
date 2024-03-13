@@ -1,3 +1,5 @@
+Here you can find a Python code that illustrates the Comics.
+
 # Comics
 
 Inspired by Jean-Pierre Petit's accessible approach to science communication, "Machine Learning for Humans on Cats" aims to simplify the complex world of machine learning (ML) for a wide audience.
